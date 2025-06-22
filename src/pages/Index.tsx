@@ -70,9 +70,6 @@ const Index = () => {
         <section className="min-h-screen flex items-center justify-center text-center animate-fade-in">
           <div className="space-y-8">
             <div className="space-y-4">
-  <h1 className="text-4xl sm:text-6xl font-light tracking-tight leading-tight">
-    Nithin
-  </h1>
               <h1 className="text-4xl sm:text-6xl font-light tracking-tight leading-tight">
                 I craft systems that think,<br />
                 <span className="text-muted-foreground">and insights that speak.</span>
