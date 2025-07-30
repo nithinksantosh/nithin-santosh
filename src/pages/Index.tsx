@@ -83,7 +83,7 @@ const Index = () => {
               <Button 
                 variant="default" 
                 className="gap-2"
-                onClick={() => window.open('https://drive.google.com/file/d/10ypK3pvL6Ijk6hZ4fomhD4RIMCHHHVSF/view', '_blank')}
+                onClick={() => window.open('https://drive.google.com/file/d/11Gx6u947H0NPiT9B4IPwWdWDsw_NL_KS/view', '_blank')}
               >
                 <FileText className="h-4 w-4" />
                 Resume
